@@ -23,4 +23,19 @@ How It Works:
 
 
 Demo:
+Here’s a quick look at the Emotion-Based Movie Catalog in action 🎬  
 
+Home Page
+![Home Page](demoscreenshots/home.png)
+
+trending
+![Recommendations](demoscreenshots/trendingmovies.png)
+
+cast
+![Cast Section](demoscreenshots/cast.png)
+
+genres
+[Genre Section](demoscreenshots/horrorgenre.png)
+
+emotion keyword
+![keywords using emotions](demoscreenshots/keywordemotions.png)
