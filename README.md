@@ -29,13 +29,14 @@ Home Page
 ![Home Page](demoscreenshots/home.png)
 
 trending
-![Recommendations](demoscreenshots/trendingmovies.png)
+![](demoscreenshots/trendingmovies.png)
 
 cast
 ![Cast Section](demoscreenshots/cast.png)
 
 genres
-[Genre Section](demoscreenshots/horrorgenre.png)
+![Genre Section](demoscreenshots/horrorgenre.png)
 
 emotion keyword
-![keywords using emotions](demoscreenshots/keywordemotions.png)
+![Keywords using emotions](demoscreenshots/keywordemotions.png)
+
