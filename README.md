@@ -22,5 +22,5 @@ How It Works:
 3. Based on the emotion, it suggests a set of movies related to that mood.
 
 
-Demo (optional)
-_Add screenshots here if you have them_
+Demo:
+
