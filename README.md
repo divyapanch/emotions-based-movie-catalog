@@ -2,8 +2,9 @@ Emotion-Based Movie Catalog
 
 A movie recommendation web app that suggests films based on user emotions using AI/NLP sentiment analysis.
 
-Overview:
+🔗 **Live Demo:** [Click here to try it out](https://movies-project-2023.netlify.app)
 
+Overview:
 This project detects user emotions (e.g., happy, sad, angry, etc.) from text input and recommends movies that align with the detected mood.  
 It aims to enhance personalized recommendations using emotion-driven insights.
 
@@ -39,4 +40,3 @@ genres
 
 emotion keyword
 ![Keywords using emotions](demoscreenshots/keywordemotions.png)
-
